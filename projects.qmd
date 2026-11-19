@@ -1,0 +1,11 @@
+---
+title: "Projects"
+---
+
+<main class="page-shell">
+  <h1 class="page-title">Projects</h1>
+  <div class="project-list">
+    <article class="project-row"><div><h2>Personal Knowledge Tools</h2><p>Small software experiments for organising learning and everyday work.</p><span class="tagline">Vibe coding</span><span class="tagline">In progress</span></div><span class="project-meta">Independent</span></article>
+    <article class="project-row"><div><h2>More projects soon</h2><p>This collection will grow as projects are ready to share.</p></div><span class="project-meta">Archive</span></article>
+  </div>
+</main>

@@ -1,0 +1,19 @@
+---
+title: "Writing"
+---
+
+<main class="page-shell">
+  <h1 class="page-title">Writing</h1>
+  <nav class="writing-filters" aria-label="Filter writing by tag">
+    <button class="writing-filter is-active" type="button" data-filter="all" aria-pressed="true">All</button>
+    <button class="writing-filter" type="button" data-filter="london" aria-pressed="false">London</button>
+    <button class="writing-filter" type="button" data-filter="reflection" aria-pressed="false">Reflection</button>
+    <button class="writing-filter" type="button" data-filter="latex" aria-pressed="false">LaTeX</button>
+  </nav>
+  <div class="writing-list">
+<article class="writing-row" data-tags="london"><div class="writing-entry"><h2><a href="writing/london-notes-1.html">伦敦杂记 1</a></h2><span class="tagline">London</span></div><time class="writing-date" datetime="2026-09-16">Sep 16, 2026</time></article>
+<article class="writing-row" data-tags="reflection"><div class="writing-entry"><h2><a href="writing/dancing-with-the-snowstorm.html">与风雪共舞，直到春天来临</a></h2><span class="tagline">Reflection</span></div><time class="writing-date" datetime="2025-01-01">Jan 1, 2025</time></article>
+<article class="writing-row" data-tags="latex"><div class="writing-entry"><h2><a href="writing/latex-math-writing-logic.html">LaTeX入门：数学公式的书写逻辑</a></h2><span class="tagline">LaTeX</span></div><time class="writing-date" datetime="2025-05-16">May 16, 2025</time></article>
+  </div>
+</main>
+<script src="assets/js/writing-filter.js"></script>

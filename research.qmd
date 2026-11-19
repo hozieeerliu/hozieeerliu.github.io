@@ -1,0 +1,9 @@
+---
+title: "Research"
+---
+
+<main class="page-shell">
+  <h1 class="page-title">Research</h1>
+  <hr class="quiet-rule" />
+  <p class="empty-note">This section is being prepared.</p>
+</main>

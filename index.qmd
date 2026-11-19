@@ -1,0 +1,30 @@
+---
+title: "Home"
+page-layout: full
+body-classes: home-page
+---
+
+::: {.home-hero}
+
+::: {.home-hero-inner}
+
+::: {.hero-copy}
+<h1 class="hero-title">Hozier LIU</h1>
+
+<p class="hero-email"><a href="mailto:hozier.liu@outlook.com">hozier.liu@outlook.com</a></p>
+
+<p class="academic-bio">I am currently an MSc student in the Department of International Development at King’s College London, having completed my BSc in Actuarial Science from Beijing Technology and Business University. My academic interests include quantitative economics, industrial organisation, and development economics, as well as actuarial modelling. During my master’s studies, I aim to build a strong foundation in both quantitative and qualitative research methods. Alongside this, I am exploring how AI tools can enhance efficiency and support economic research, with particular attention to their limitations and to finding a balance in human–AI collaboration that preserves human agency and critical thinking.</p>
+
+<div class="home-notice" role="note" aria-label="News"><span class="notice-label">News</span><span>I’m an intermediate badminton enthusiast. Favourite active players: Shi Yuqi, Chou Tien Chen, Victor Lai. Based around KCL Waterloo Campus, London. <strong>Badminton enthusiasts are welcome to get in touch</strong> — I bring enthusiasm, if not consistent shot quality.</span></div>
+
+<nav class="home-links" aria-label="Explore the website">
+  <a class="home-link" href="research.qmd">Research</a>
+  <a class="home-link" href="notes.qmd">Notes</a>
+  <a class="home-link" href="projects.qmd">Projects</a>
+  <a class="home-link" href="writing.qmd">Writing</a>
+</nav>
+:::
+
+:::
+:::
+

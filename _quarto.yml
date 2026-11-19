@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Hozier Liu"
+  description: "Personal academic website of Hozier Liu."
+  site-url: https://hozierliu.com
+  navbar:
+    background: transparent
+    foreground: "#242424"
+    title: "Hozier Liu"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Notes"
+        href: notes.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Writing"
+        href: writing.qmd
+    right:
+      - icon: envelope
+        href: mailto:hozier.liu@outlook.com
+        aria-label: Email
+  page-footer:
+    left: "© 2026 Hozier Liu"
+    right: "Made with care"
+  search: false
+  open-graph: true
+  reader-mode: false
+  page-navigation: true
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: false
+    anchor-sections: false
+    smooth-scroll: true
+    section-divs: false
+    link-external-newwindow: true
+

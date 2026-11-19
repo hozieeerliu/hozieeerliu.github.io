@@ -1,0 +1,17 @@
+---
+title: "Notes"
+---
+
+<main class="page-shell">
+  <h1 class="page-title">Notes</h1>
+    <details id="all-notes" class="discipline notes-disciplines" aria-label="Note subjects">
+      <summary>Economics</summary>
+      <ul class="note-topics">
+        <li><a href="#political-economy">Political Economy</a></li>
+        <li><a href="#mathematical-economics">Mathematical Economics</a></li>
+        <li class="note-topic-expandable"><details class="note-subject"><summary>Microeconomics</summary><ul><li><details class="note-subject"><summary>Intermediate Microeconomics</summary><ul class="note-reading-list"><li>[<a class="pdf-link" href="https://drive.google.com/file/d/1D3slhpXNnnf47_jTpbG9_USPLJ7RpDEX/view?usp=drive_link" target="_blank" rel="noopener">Previous Notes</a>]</li></ul></details></li></ul></details></li>
+        <li class="note-topic-expandable"><details class="note-subject"><summary>Macroeconomics</summary><ul><li><details class="note-subject"><summary>Intermediate Macroeconomics</summary><ul class="note-reading-list"><li>[<a class="pdf-link" href="https://drive.google.com/file/d/1D3slhpXNnnf47_jTpbG9_USPLJ7RpDEX/view?usp=drive_link" target="_blank" rel="noopener">Previous Notes</a>]</li></ul></details></li></ul></details></li>
+        <li class="note-topic-expandable"><details class="note-subject"><summary>Econometrics</summary><ul><li><details class="note-subject"><summary>Introductory Econometrics</summary><ul class="note-reading-list"><li>Textbooks: [<a class="pdf-link" href="https://drive.google.com/file/d/1sWlpogVN7qHONfUxzgD376r8m3fb-94J/view?usp=sharing" target="_blank" rel="noopener">Stock &amp; Watson (2020)</a>], [<a class="pdf-link" href="https://drive.google.com/file/d/1FuN9c4EllOizDNrXgVcN3zLbQgLLfmUu/view?usp=sharing" target="_blank" rel="noopener">Wooldridge (2025)</a>]</li><li>Appendix<ul><li>Appendix A — Basic Mathematical Tools [<a class="pdf-link" href="https://drive.google.com/file/d/1oSE_C28pwkS0C-IDcCYRuz3nwI4kDrPt/view?usp=sharing" target="_blank" rel="noopener">PDF</a>]</li></ul></li></ul></details></li></ul></details></li>
+      </ul>
+    </details>
+</main>
