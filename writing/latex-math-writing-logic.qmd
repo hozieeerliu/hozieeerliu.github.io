@@ -1,0 +1,16 @@
+---
+title: "LaTeX入门：数学公式的书写逻辑"
+description: "系统介绍 LaTeX 数学公式环境、交叉引用与常用结构。"
+---
+
+::: {.page-shell .article-shell}
+<a class="article-back" href="../writing.html">← Writing</a>
+
+# LaTeX入门：数学公式的书写逻辑 {.page-title}
+
+::: {.article-body}
+
+$x^2$公式测试
+
+:::
+:::
