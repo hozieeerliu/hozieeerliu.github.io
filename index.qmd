@@ -11,7 +11,7 @@ body-classes: home-page
 ::: {.hero-copy}
 <h1 class="hero-title">Hozier LIU</h1>
 
-<p class="hero-email"><a href="mailto:hozier.liu@outlook.com">hozier.liu@outlook.com</a> <span aria-hidden="true">/</span> <a href="mailto:houze.liu@kcl.ac.uk">houze.liu@kcl.ac.uk</a></p>
+<p class="hero-email"><a href="mailto:hozieeer.liu@gmail.com">hozieeer.liu@gmail.com</a> <span aria-hidden="true">/</span> <a href="mailto:hozier.liu@outlook.com">hozier.liu@outlook.com</a> <span aria-hidden="true">/</span> <a href="mailto:houze.liu@kcl.ac.uk">houze.liu@kcl.ac.uk</a></p>
 
 <p class="academic-bio">I am currently an MSc student in the Department of International Development at King’s College London, having completed my BSc in Actuarial Science from Beijing Technology and Business University. My academic interests include quantitative economics, industrial organisation, and development economics, as well as actuarial modelling. During my master’s studies, I aim to build a strong foundation in both quantitative and qualitative research methods. Alongside this, I am exploring how AI tools can enhance efficiency and support economic research, with particular attention to their limitations and to finding a balance in human–AI collaboration that preserves human agency and critical thinking.</p>
 
