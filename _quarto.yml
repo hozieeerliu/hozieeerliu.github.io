@@ -21,10 +21,6 @@ website:
         href: projects.qmd
       - text: "Writing"
         href: writing.qmd
-    right:
-      - icon: envelope
-        href: mailto:hozier.liu@outlook.com
-        aria-label: Email
   page-footer:
     left: "© 2026 Hozier Liu"
     right: "Made with care"
