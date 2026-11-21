@@ -147,6 +147,12 @@ a { text-decoration-thickness: 1px; text-underline-offset: .22em; }
 .writing-row[hidden] { display: none; }
 .article-shell { max-width: 860px; }
 .article-back { display: inline-block; margin: 0 0 1.8rem; color: var(--jade); font-size: .9rem; text-decoration: none; }
+.article-pagination { display: flex; justify-content: space-between; gap: 1rem; max-width: 740px; margin: 3rem auto 0; padding-top: 1.2rem; border-top: 1px solid var(--line); font-family: var(--sans); }
+.article-pagination-link { display: flex; flex-direction: column; gap: .3rem; max-width: 48%; padding: .8rem 1rem; border: 1px solid rgba(67,104,87,.22); border-radius: 10px; color: var(--jade); text-decoration: none; background: rgba(255,255,255,.3); transition: background .18s ease, border-color .18s ease; }
+.article-pagination-link:hover { border-color: rgba(67,104,87,.5); background: rgba(255,255,255,.58); }
+.article-pagination-link span { color: var(--muted); font-size: .78rem; }
+.article-pagination-link strong { font-size: .92rem; font-weight: 500; }
+.article-pagination-link:last-child { margin-left: auto; text-align: right; }
 .article-body { max-width: 740px; margin: 2.8rem auto 0; color: #303630; font: 400 1.08rem/1.95 var(--serif); letter-spacing: 0; }
 .article-body p { margin: 0 0 1.15rem; }
 .article-body img { display: block; width: auto; max-width: 100%; max-height: 72vh; object-fit: contain; margin: 1.8rem auto 2rem; border-radius: 5px; }
