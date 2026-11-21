@@ -38,5 +38,4 @@ format:
     anchor-sections: false
     smooth-scroll: true
     section-divs: false
-    link-external-newwindow: true
 
