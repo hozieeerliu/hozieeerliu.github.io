@@ -12,5 +12,9 @@ description: "系统介绍 LaTeX 数学公式环境、交叉引用与常用结�
 
 $x^2$公式测试
 
+
+<nav class="article-pagination" aria-label="Article navigation">
+  <a class="article-pagination-link" href="dancing-with-the-snowstorm.html"><span>下一篇</span><strong>与风雪共舞，直到春天来临</strong></a>
+</nav>
 :::
 :::
