@@ -22,5 +22,10 @@ description: "回望2024，在风雪中继续耕耘，等待春天到来。"
 
 ![](https://hzzzliu.wordpress.com/wp-content/uploads/2025/01/28491735664590_.pic_hd.jpg?w=1024)
 
+
+<nav class="article-pagination" aria-label="Article navigation">
+  <a class="article-pagination-link" href="latex-math-writing-logic.html"><span>上一篇</span><strong>LaTeX入门：数学公式的书写逻辑</strong></a>
+  <a class="article-pagination-link" href="london-notes-1.html"><span>下一篇</span><strong>伦敦杂记 1</strong></a>
+</nav>
 :::
 :::
