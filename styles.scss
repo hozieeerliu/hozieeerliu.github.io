@@ -125,7 +125,8 @@ a { text-decoration-thickness: 1px; text-underline-offset: .22em; }
 .note-subject[open] > summary::after { content: "−"; }
 .note-subject > ul { list-style: none; margin: .6rem 0 0 1rem; padding: 0 0 0 1rem; border-left: 1px solid rgba(82,125,107,.28); }
 .note-subject > ul > li { padding: .3rem 0; }
-.note-subject > ul.note-reading-list { list-style: disc; }
+.note-subject > p.course-intro { margin-bottom: .35rem; }
+.note-subject > ul.note-reading-list { list-style: disc; margin: .35rem 0 0; padding: 0 0 0 1.25rem; border-left: 0; }
 .note-reading-list { list-style: disc; margin: .35rem 0 0; padding-left: 1.25rem; color: #405b4f; }
 .note-reading-list > li { padding: .25rem 0; font-size: .92rem; }
 .note-reading-list ul { list-style: circle; padding: .3rem 0 0 1.25rem; }
