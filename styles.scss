@@ -175,8 +175,10 @@ a { text-decoration-thickness: 1px; text-underline-offset: .22em; }
   .academic-bio { font-size: 1rem; line-height: 1.72; max-width: none; }
   .home-notice { grid-template-columns: 5rem minmax(0, 1fr); font-size: .82rem; gap: .65rem; }
   .home-links { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .home-link { min-height: 50px; }
-  .home-link + .home-link { padding-left: .65rem; }
+  .home-link { min-height: 54px; padding: .8rem .65rem; }
+  .home-link + .home-link { border-left: 0; padding-left: .65rem; }
+  .home-link:nth-child(odd) { border-right: 1px solid rgba(82,125,107,.2); }
+  .home-link:nth-child(n+3) { border-top: 1px solid rgba(82,125,107,.2); }
   .hero-actions { gap: 1.15rem; margin-top: 1.35rem; }
   .hero-location { margin-top: 1.5rem; }
   .home-content { padding: 3.5rem 0 4.5rem; }
