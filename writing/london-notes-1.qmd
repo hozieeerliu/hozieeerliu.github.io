@@ -258,5 +258,9 @@ Department的见面会，落座后恰好拍到一些老师见面拥抱。
 
 ![](https://hzzzliu.wordpress.com/wp-content/uploads/2026/10/503833d2a0184dcf80f9fc88426e4bb3.jpg?w=1024)
 
+
+<nav class="article-pagination" aria-label="Article navigation">
+  <a class="article-pagination-link" href="dancing-with-the-snowstorm.html"><span>上一篇</span><strong>与风雪共舞，直到春天来临</strong></a>
+</nav>
 :::
 :::
