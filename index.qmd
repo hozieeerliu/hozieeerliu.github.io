@@ -15,7 +15,7 @@ body-classes: home-page
 
 <p class="academic-bio">I am currently an MSc student in the Department of International Development at King’s College London, having completed my BSc in Actuarial Science from Beijing Technology and Business University. My academic interests include quantitative economics, industrial organisation, and development economics, as well as actuarial modelling. During my master’s studies, I aim to build a strong foundation in both quantitative and qualitative research methods. Alongside this, I am exploring how AI tools can enhance efficiency and support economic research, with particular attention to their limitations and to finding a balance in human–AI collaboration that preserves human agency and critical thinking.</p>
 
-<div class="home-notice" role="note" aria-label="Updates"><span class="notice-label">Updates</span><div class="update-entry"><time datetime="2026-11-20">[2026.11.20]</time><span>I’m currently moving content from my old personal website to this one. The old site is still available at <a href="https://jingqishixiang.com">jingqishixiang.com</a> for the time being.</span></div></div>
+<div class="home-notice" role="note" aria-label="Updates"><span class="notice-label">Updates</span><div class="update-entry"><time datetime="2026-11-20">[2026.11.20]</time><span>I’m currently moving content from my old personal website to this one.<br>The old site is still available at <a href="https://jingqishixiang.com">jingqishixiang.com</a> for the time being.</span></div></div>
 
 <nav class="home-links" aria-label="Explore the website">
   <a class="home-link" href="research.qmd">Research</a>
