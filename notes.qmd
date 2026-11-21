@@ -7,7 +7,7 @@ title: "Notes"
     <details class="discipline notes-disciplines" aria-label="Mathematics">
       <summary>Mathematics</summary>
       <ul class="note-topics">
-        <li class="note-topic-expandable"><details class="note-subject"><summary>Algebra</summary><ul><li class="note-topic-expandable"><details class="note-subject"><summary>Linear Algebra</summary><p class="course-intro"><a class="pdf-link" href="https://www.tup.com.cn/booksCenter/book_09700501.html" target="_blank" rel="noopener"><strong>Liang et al. (2022)</strong></a> and <a class="pdf-link" href="https://math.mit.edu/~gs/linearalgebra/ila6/indexila6.html" target="_blank" rel="noopener"><strong>Strang (2023)</strong></a></p></details></li></ul></details></li>
+        <li class="note-topic-expandable"><details class="note-subject"><summary>Algebra</summary><ul><li class="note-topic-expandable"><details class="note-subject"><summary>Linear Algebra</summary><p class="course-intro">These notes are based primarily on Dr Liang Xin’s publicly available lecture series at Tsinghua University and the following references: <a class="pdf-link" href="https://www.tup.com.cn/booksCenter/book_09700501.html" target="_blank" rel="noopener">Liang et al. (2022)</a> and <a class="pdf-link" href="https://math.mit.edu/~gs/linearalgebra/ila6/indexila6.html" target="_blank" rel="noopener">Strang (2023)</a>.</p></details></li></ul></details></li>
       </ul>
     </details>
     <details id="all-notes" class="discipline notes-disciplines" aria-label="Note subjects">
@@ -24,8 +24,8 @@ title: "Notes"
       <summary>Miscellaneous</summary>
       <ul class="note-topics">
         <li class="note-topic-expandable"><details class="note-subject"><summary>King’s College London</summary><ul>
-          <li>Development Theory and Emerging Economies (taught by <a class="pdf-link" href="https://www.kcl.ac.uk/people/garima-jaju" target="_blank" rel="noopener">Dr Garima Jaju</a>, KCL)</li>
-          <li>Introduction to Qualitative Methods (taught by <a class="pdf-link" href="https://www.kcl.ac.uk/people/jennifer-langill" target="_blank" rel="noopener">Dr Jennifer Langill</a> &amp; <a class="pdf-link" href="https://www.kcl.ac.uk/people/kapil-yadav" target="_blank" rel="noopener">Dr Kapil Yadav</a>, KCL)</li>
+          <li>Development Theory and Emerging Economies</li>
+          <li>Introduction to Qualitative Methods</li>
         </ul></details></li>
       </ul>
     </details>
