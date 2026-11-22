@@ -2,6 +2,7 @@
 title: "Projects"
 ---
 
+```{=html}
 <main class="page-shell">
   <h1 class="page-title">Projects</h1>
 
@@ -85,3 +86,4 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 });
 </script>
+```
