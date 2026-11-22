@@ -4,6 +4,84 @@ title: "Projects"
 
 <main class="page-shell">
   <h1 class="page-title">Projects</h1>
-  <hr class="quiet-rule" />
-  <p class="empty-note">This section is being prepared.</p>
+
+  <section class="vibe-coding" aria-labelledby="vibe-coding-title">
+    <h2 id="vibe-coding-title">Vibe Coding</h2>
+    <div class="vibe-intro">
+      <p>These are the apps and plug-ins I’ve cobbled together with whichever AI was available and willing to tolerate me — Doubao, Gemini, Codex, Claude, the usual suspects.</p>
+      <p>We live in an absurd era. A wildly specific need pops into your head, and instead of paying £4.99 a month for an app that almost does the job, you ask a chatbot to build exactly what you want. Three hours and seventeen “one tiny changes” later, you have your very own app and a new understanding of why developers charge money.</p>
+      <p>Below is a growing collection of solutions to problems that may exist only in my life. Most of them work. Some work surprisingly well. I’m rather fond of them.</p>
+      <p>Have a play, borrow an idea, then go build something unreasonable of your own. Updates and new toys will arrive whenever inspiration strikes and I have successfully avoided my actual responsibilities.</p>
+    </div>
+
+    <div class="app-picker" role="tablist" aria-label="Vibe Coding apps">
+      <button class="app-tab is-active" id="tab-finance" type="button" role="tab" aria-selected="true" aria-controls="panel-finance" tabindex="0" data-app-tab="finance">
+        <img src="assets/images/projects/finance.jpg" alt="" /><span>Finance</span>
+      </button>
+      <button class="app-tab" id="tab-notebook" type="button" role="tab" aria-selected="false" aria-controls="panel-notebook" tabindex="-1" data-app-tab="notebook">
+        <img src="assets/images/projects/notebook.jpg" alt="" /><span>Notebook</span>
+      </button>
+      <button class="app-tab" id="tab-calendar" type="button" role="tab" aria-selected="false" aria-controls="panel-calendar" tabindex="-1" data-app-tab="calendar">
+        <img src="assets/images/projects/calendar.jpg" alt="" /><span>Calendar</span>
+      </button>
+      <button class="app-tab" id="tab-timer" type="button" role="tab" aria-selected="false" aria-controls="panel-timer" tabindex="-1" data-app-tab="timer">
+        <img src="assets/images/projects/timer.jpg" alt="" /><span>Timer</span>
+      </button>
+      <button class="app-tab" id="tab-menubar" type="button" role="tab" aria-selected="false" aria-controls="panel-menubar" tabindex="-1" data-app-tab="menubar">
+        <img src="assets/images/projects/menubar.jpg" alt="" /><span>MenuBar</span>
+      </button>
+    </div>
+
+    <div class="app-panels" aria-live="polite">
+      <article class="app-panel" id="panel-finance" role="tabpanel" aria-labelledby="tab-finance" data-app-panel="finance">
+        <h3>Finance</h3><p>Introduction and download link coming soon.</p>
+      </article>
+      <article class="app-panel" id="panel-notebook" role="tabpanel" aria-labelledby="tab-notebook" data-app-panel="notebook" hidden>
+        <h3>Notebook</h3><p>Introduction and download link coming soon.</p>
+      </article>
+      <article class="app-panel" id="panel-calendar" role="tabpanel" aria-labelledby="tab-calendar" data-app-panel="calendar" hidden>
+        <h3>Calendar</h3><p>Introduction and download link coming soon.</p>
+      </article>
+      <article class="app-panel" id="panel-timer" role="tabpanel" aria-labelledby="tab-timer" data-app-panel="timer" hidden>
+        <h3>Timer</h3><p>Introduction and download link coming soon.</p>
+      </article>
+      <article class="app-panel" id="panel-menubar" role="tabpanel" aria-labelledby="tab-menubar" data-app-panel="menubar" hidden>
+        <h3>MenuBar</h3><p>Introduction and download link coming soon.</p>
+      </article>
+    </div>
+  </section>
 </main>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const tabs = [...document.querySelectorAll("[data-app-tab]")];
+  const panels = [...document.querySelectorAll("[data-app-panel]")];
+
+  function selectApp(name, focus = false) {
+    tabs.forEach((tab) => {
+      const selected = tab.dataset.appTab === name;
+      tab.classList.toggle("is-active", selected);
+      tab.setAttribute("aria-selected", String(selected));
+      tab.tabIndex = selected ? 0 : -1;
+      if (selected && focus) tab.focus();
+    });
+    panels.forEach((panel) => {
+      panel.hidden = panel.dataset.appPanel !== name;
+    });
+  }
+
+  tabs.forEach((tab, index) => {
+    tab.addEventListener("click", () => selectApp(tab.dataset.appTab));
+    tab.addEventListener("keydown", (event) => {
+      let next = index;
+      if (event.key === "ArrowRight") next = (index + 1) % tabs.length;
+      else if (event.key === "ArrowLeft") next = (index - 1 + tabs.length) % tabs.length;
+      else if (event.key === "Home") next = 0;
+      else if (event.key === "End") next = tabs.length - 1;
+      else return;
+      event.preventDefault();
+      selectApp(tabs[next].dataset.appTab, true);
+    });
+  });
+});
+</script>
