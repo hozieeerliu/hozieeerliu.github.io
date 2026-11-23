@@ -21,7 +21,6 @@ body-classes: home-page
 <ol class="updates-list">
 <li class="update-entry"><time datetime="2026-11-23">[2026.11.23]</time><span>I’ve added several Vibe Coding projects, with descriptions and download links, to the <a href="projects.qmd">Projects page</a>.</span></li>
 <li class="update-entry"><time datetime="2026-11-20">[2026.11.20]</time><span>My personal website has officially moved here. <a href="https://www.jingqishixiang.com">Previous site (no longer updated)</a></span></li>
-<li class="update-entry is-undated"><span>I’m an intermediate badminton enthusiast. Favourite active players: Shi Yuqi, Chou Tien Chen, Victor Lai. Based around KCL Waterloo Campus, London. <strong>Badminton enthusiasts are welcome to get in touch</strong> — I bring enthusiasm, if not consistent shot quality.</span></li>
 </ol>
 </div>
 </div>
