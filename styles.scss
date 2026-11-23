@@ -199,6 +199,7 @@ a { text-decoration-thickness: 1px; text-underline-offset: .22em; }
 .degree-thesis { padding: 1rem 0 1.15rem; }
 .degree-thesis-type { margin: 0 0 .45rem; color: var(--jade); font-size: .78rem; }
 .degree-thesis h3 { margin: 0; color: #303630; font: 500 clamp(1.15rem, 2vw, 1.4rem)/1.5 var(--serif); }
+.degree-thesis-supervisor { margin: .55rem 0 0; color: var(--muted); font-size: .88rem; }
 
 @media (max-width: 760px) {
   .navbar { padding-inline: 1rem; }
