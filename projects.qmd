@@ -40,32 +40,32 @@ title: "Projects"
       <article class="app-panel" id="panel-notebook" role="tabpanel" aria-labelledby="tab-notebook" data-app-panel="notebook">
         <h3>Notebook</h3>
         <p>Builds on handwriting notes with PDF import and a freeform Canvas for writing, drawing and annotation.</p>
-        <p class="project-downloads">Download: <a href="https://drive.google.com/drive/folders/1WI1f6OP_SopgPDUQKo6ME92A7j_8AdzA?usp=drive_link" target="_blank" rel="noopener noreferrer">Google Drive</a> <span aria-hidden="true">·</span> <a href="https://pan.baidu.com/s/1YvxMLGmxein9bq3qYz2UNg?pwd=HZZZ" target="_blank" rel="noopener noreferrer">Baidu Netdisk</a></p>
+        <p class="project-downloads">Download: [<a href="https://drive.google.com/drive/folders/1WI1f6OP_SopgPDUQKo6ME92A7j_8AdzA?usp=drive_link" target="_blank" rel="noopener noreferrer">Google Drive</a>] <span aria-hidden="true">·</span> [<a href="https://pan.baidu.com/s/1YvxMLGmxein9bq3qYz2UNg?pwd=HZZZ" target="_blank" rel="noopener noreferrer">Baidu Netdisk</a>]</p>
       </article>
       <article class="app-panel" id="panel-calendar" role="tabpanel" aria-labelledby="tab-calendar" data-app-panel="calendar" hidden>
         <h3>Calendar</h3>
         <p>Brings iCloud Calendar events and reminders to your desktop wallpaper, automatically identifying classes and important events from designated fields in event notes.</p>
-        <p class="project-downloads">Download: <a href="https://drive.google.com/drive/folders/1NOxI2WcHmvNghzewEZDKAmYhqMsfxqLS?usp=drive_link" target="_blank" rel="noopener noreferrer">Google Drive</a> <span aria-hidden="true">·</span> <a href="https://pan.baidu.com/s/1P6BIStYrhyEaZVxMDKqXvg?pwd=HZZZ" target="_blank" rel="noopener noreferrer">Baidu Netdisk</a></p>
+        <p class="project-downloads">Download: [<a href="https://drive.google.com/drive/folders/1NOxI2WcHmvNghzewEZDKAmYhqMsfxqLS?usp=drive_link" target="_blank" rel="noopener noreferrer">Google Drive</a>] <span aria-hidden="true">·</span> [<a href="https://pan.baidu.com/s/1P6BIStYrhyEaZVxMDKqXvg?pwd=HZZZ" target="_blank" rel="noopener noreferrer">Baidu Netdisk</a>]</p>
       </article>
       <article class="app-panel" id="panel-menubar" role="tabpanel" aria-labelledby="tab-menubar" data-app-panel="menubar" hidden>
         <h3>MenuBar</h3>
         <p>Keeps menu bar icons tidy, with optional usage indicators for GPT and Claude.</p>
-        <p class="project-downloads">Download: <a href="https://drive.google.com/drive/folders/1JdWtP7QYM_qACCKWiOBKvxnvAkcBfVap?usp=drive_link" target="_blank" rel="noopener noreferrer">Google Drive</a> <span aria-hidden="true">·</span> <a href="https://pan.baidu.com/s/1pALWnuyVKs4vAbOT3bWlPg?pwd=HZZZ" target="_blank" rel="noopener noreferrer">Baidu Netdisk</a></p>
+        <p class="project-downloads">Download: [<a href="https://drive.google.com/drive/folders/1JdWtP7QYM_qACCKWiOBKvxnvAkcBfVap?usp=drive_link" target="_blank" rel="noopener noreferrer">Google Drive</a>] <span aria-hidden="true">·</span> [<a href="https://pan.baidu.com/s/1pALWnuyVKs4vAbOT3bWlPg?pwd=HZZZ" target="_blank" rel="noopener noreferrer">Baidu Netdisk</a>]</p>
       </article>
       <article class="app-panel" id="panel-focus" role="tabpanel" aria-labelledby="tab-focus" data-app-panel="focus" hidden>
         <h3>Focus</h3>
         <p>Tracks focus time to support modular learning with positive feedback, visualises daily and weekly progress, and provides session summaries.</p>
-        <p class="project-downloads">Download: <a href="https://drive.google.com/drive/folders/1ILbgD9KAjZO3gG8o0nVvAezRM1j67PLu?usp=drive_link" target="_blank" rel="noopener noreferrer">Google Drive</a> <span aria-hidden="true">·</span> <a href="https://pan.baidu.com/s/1vJ5oATRz_dR8pGM5EYog0A?pwd=HZZZ" target="_blank" rel="noopener noreferrer">Baidu Netdisk</a></p>
+        <p class="project-downloads">Download: [<a href="https://drive.google.com/drive/folders/1ILbgD9KAjZO3gG8o0nVvAezRM1j67PLu?usp=drive_link" target="_blank" rel="noopener noreferrer">Google Drive</a>] <span aria-hidden="true">·</span> [<a href="https://pan.baidu.com/s/1vJ5oATRz_dR8pGM5EYog0A?pwd=HZZZ" target="_blank" rel="noopener noreferrer">Baidu Netdisk</a>]</p>
       </article>
       <article class="app-panel" id="panel-finance" role="tabpanel" aria-labelledby="tab-finance" data-app-panel="finance" hidden>
         <h3>Finance</h3>
         <p>An all-in-one finance manager for student life abroad, covering accounts, income and expenses, category budgets and transaction tracking.</p>
-        <p class="project-downloads">Download: <a href="https://drive.google.com/drive/folders/1czOmzHpdfwfpXiiQdRUhWcitO3bv0wIC?usp=drive_link" target="_blank" rel="noopener noreferrer">Google Drive</a> <span aria-hidden="true">·</span> <a href="https://pan.baidu.com/s/1OG1Gkdx0rR5t86rCKDZ8rg?pwd=HZZZ" target="_blank" rel="noopener noreferrer">Baidu Netdisk</a></p>
+        <p class="project-downloads">Download: [<a href="https://drive.google.com/drive/folders/1czOmzHpdfwfpXiiQdRUhWcitO3bv0wIC?usp=drive_link" target="_blank" rel="noopener noreferrer">Google Drive</a>] <span aria-hidden="true">·</span> [<a href="https://pan.baidu.com/s/1OG1Gkdx0rR5t86rCKDZ8rg?pwd=HZZZ" target="_blank" rel="noopener noreferrer">Baidu Netdisk</a>]</p>
       </article>
       <article class="app-panel" id="panel-dualsub" role="tabpanel" aria-labelledby="tab-dualsub" data-app-panel="dualsub" hidden>
         <h3>DualSub</h3>
         <p>Provides bilingual subtitles for streaming platforms including YouTube, HBO Max, Disney+, Channel 4 and Netflix, as well as KCL’s Echo360 lecture recordings, with translations processed locally.</p>
-        <p class="project-downloads">Download: <a href="https://drive.google.com/drive/folders/1W9mbIagWbNcNLZurwGCeECck507pB0G7?usp=drive_link" target="_blank" rel="noopener noreferrer">Google Drive</a> <span aria-hidden="true">·</span> <a href="https://pan.baidu.com/s/1XFztZasQp-GNO7LLBch8Bg?pwd=HZZZ" target="_blank" rel="noopener noreferrer">Baidu Netdisk</a></p>
+        <p class="project-downloads">Download: [<a href="https://drive.google.com/drive/folders/1W9mbIagWbNcNLZurwGCeECck507pB0G7?usp=drive_link" target="_blank" rel="noopener noreferrer">Google Drive</a>] <span aria-hidden="true">·</span> [<a href="https://pan.baidu.com/s/1XFztZasQp-GNO7LLBch8Bg?pwd=HZZZ" target="_blank" rel="noopener noreferrer">Baidu Netdisk</a>]</p>
       </article>
     </div>
   </section>
