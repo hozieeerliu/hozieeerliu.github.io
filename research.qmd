@@ -6,6 +6,6 @@ title: "Research"
 <main class="page-shell">
   <h1 class="page-title">Research</h1>
   <h2 class="research-section-title">Degree Theses</h2>
-  <p>Undergraduate thesis: <em>Pension Indexation Mechanisms for China's Basic Pension System amid the Gradual Increase in the Retirement Age: An Actuarial Analysis</em> (supervised by <a href="https://eco.btbu.edu.cn/szdw/yjsds/ssyjsds/65d97423b59f45afb7e324e79e44673a.htm" target="_blank" rel="noopener">Dr Yang Qiao</a>)</p>
+  <p><span class="thesis-type">Undergraduate thesis:</span> <em>Pension Indexation Mechanisms for China's Basic Pension System amid the Gradual Increase in the Retirement Age: An Actuarial Analysis</em> (supervised by <a href="https://eco.btbu.edu.cn/szdw/yjsds/ssyjsds/65d97423b59f45afb7e324e79e44673a.htm" target="_blank" rel="noopener">Dr Yang Qiao</a>)</p>
 </main>
 ```
