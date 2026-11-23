@@ -101,6 +101,7 @@ a { text-decoration-thickness: 1px; text-underline-offset: .22em; }
 .page-eyebrow { font-size: .76rem; letter-spacing: .15em; text-transform: uppercase; color: var(--jade); margin-bottom: 1rem; }
 .page-title { font: 700 clamp(3rem, 7vw, 5.5rem)/1 var(--rounded); letter-spacing: -.05em; margin: 0 0 1rem; }
 .research-section-title { margin: 1.5rem 0 .65rem; color: #405b4f; font: 600 1.35rem/1.4 var(--rounded); }
+.thesis-type { color: var(--jade); font-weight: 600; }
 .page-lede { font: 400 clamp(1.2rem, 2.5vw, 1.6rem)/1.55 var(--serif); color: #555; max-width: 690px; margin: 0 0 3.5rem; }
 .quiet-rule { border: 0; border-top: 1px solid var(--line); margin: 2.5rem 0; opacity: 1; }
 .page-shell > .page-title + .quiet-rule,
