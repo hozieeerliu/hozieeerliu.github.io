@@ -4,6 +4,12 @@ title: "Research"
 
 <main class="page-shell">
   <h1 class="page-title">Research</h1>
-  <hr class="quiet-rule" />
-  <p class="empty-note">This section is being prepared.</p>
+  <div class="writing-list research-list">
+    <article class="writing-row">
+      <div class="writing-entry">
+        <h2>Pension Indexation Mechanisms for China’s Basic Pension System amid the Gradual Increase in the Retirement Age: An Actuarial Analysis</h2>
+        <span class="tagline">Undergraduate Thesis</span>
+      </div>
+    </article>
+  </div>
 </main>
