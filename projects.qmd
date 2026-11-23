@@ -16,20 +16,20 @@ title: "Projects"
     </div>
 
     <div class="app-picker" role="tablist" aria-label="Vibe Coding apps">
-      <button class="app-tab is-active" id="tab-finance" type="button" role="tab" aria-selected="true" aria-controls="panel-finance" tabindex="0" data-app-tab="finance">
-        <img src="assets/images/projects/finance.jpg" alt="" /><span>Finance</span>
-      </button>
-      <button class="app-tab" id="tab-notebook" type="button" role="tab" aria-selected="false" aria-controls="panel-notebook" tabindex="-1" data-app-tab="notebook">
+      <button class="app-tab is-active" id="tab-notebook" type="button" role="tab" aria-selected="true" aria-controls="panel-notebook" tabindex="0" data-app-tab="notebook">
         <img src="assets/images/projects/notebook.jpg" alt="" /><span>Notebook</span>
       </button>
       <button class="app-tab" id="tab-calendar" type="button" role="tab" aria-selected="false" aria-controls="panel-calendar" tabindex="-1" data-app-tab="calendar">
         <img src="assets/images/projects/calendar.jpg" alt="" /><span>Calendar</span>
       </button>
-      <button class="app-tab" id="tab-timer" type="button" role="tab" aria-selected="false" aria-controls="panel-timer" tabindex="-1" data-app-tab="timer">
-        <img src="assets/images/projects/timer.jpg" alt="" /><span>Timer</span>
-      </button>
       <button class="app-tab" id="tab-menubar" type="button" role="tab" aria-selected="false" aria-controls="panel-menubar" tabindex="-1" data-app-tab="menubar">
         <img src="assets/images/projects/menubar.jpg" alt="" /><span>MenuBar</span>
+      </button>
+      <button class="app-tab" id="tab-focus" type="button" role="tab" aria-selected="false" aria-controls="panel-focus" tabindex="-1" data-app-tab="focus">
+        <img src="assets/images/projects/timer.jpg" alt="" /><span>Focus</span>
+      </button>
+      <button class="app-tab" id="tab-finance" type="button" role="tab" aria-selected="false" aria-controls="panel-finance" tabindex="-1" data-app-tab="finance">
+        <img src="assets/images/projects/finance.jpg" alt="" /><span>Finance</span>
       </button>
       <button class="app-tab" id="tab-dualsub" type="button" role="tab" aria-selected="false" aria-controls="panel-dualsub" tabindex="-1" data-app-tab="dualsub">
         <img src="assets/images/projects/dualsub.jpg" alt="" /><span>DualSub</span>
@@ -37,12 +37,7 @@ title: "Projects"
     </div>
 
     <div class="app-panels" aria-live="polite">
-      <article class="app-panel" id="panel-finance" role="tabpanel" aria-labelledby="tab-finance" data-app-panel="finance">
-        <h3>Finance</h3>
-        <p>An all-in-one finance manager for student life abroad, covering accounts, income and expenses, category budgets and transaction tracking.</p>
-        <p><a href="https://drive.google.com/drive/folders/1czOmzHpdfwfpXiiQdRUhWcitO3bv0wIC?usp=drive_link" target="_blank" rel="noopener noreferrer">Download from Google Drive</a></p>
-      </article>
-      <article class="app-panel" id="panel-notebook" role="tabpanel" aria-labelledby="tab-notebook" data-app-panel="notebook" hidden>
+      <article class="app-panel" id="panel-notebook" role="tabpanel" aria-labelledby="tab-notebook" data-app-panel="notebook">
         <h3>Notebook</h3>
         <p>Builds on handwriting notes with PDF import and a freeform Canvas for writing, drawing and annotation.</p>
         <p><a href="https://drive.google.com/drive/folders/1WI1f6OP_SopgPDUQKo6ME92A7j_8AdzA?usp=drive_link" target="_blank" rel="noopener noreferrer">Download from Google Drive</a></p>
@@ -52,15 +47,20 @@ title: "Projects"
         <p>Brings iCloud Calendar events and reminders to your desktop wallpaper, automatically identifying classes and important events from designated fields in event notes.</p>
         <p><a href="https://drive.google.com/drive/folders/1NOxI2WcHmvNghzewEZDKAmYhqMsfxqLS?usp=drive_link" target="_blank" rel="noopener noreferrer">Download from Google Drive</a></p>
       </article>
-      <article class="app-panel" id="panel-timer" role="tabpanel" aria-labelledby="tab-timer" data-app-panel="timer" hidden>
-        <h3>Timer</h3>
-        <p>Tracks focus time to support modular learning with positive feedback, visualises daily and weekly progress, and provides session summaries.</p>
-        <p><a href="https://drive.google.com/drive/folders/1ILbgD9KAjZO3gG8o0nVvAezRM1j67PLu?usp=drive_link" target="_blank" rel="noopener noreferrer">Download from Google Drive</a></p>
-      </article>
       <article class="app-panel" id="panel-menubar" role="tabpanel" aria-labelledby="tab-menubar" data-app-panel="menubar" hidden>
         <h3>MenuBar</h3>
         <p>Keeps menu bar icons tidy, with optional usage indicators for GPT and Claude.</p>
         <p><a href="https://drive.google.com/drive/folders/1JdWtP7QYM_qACCKWiOBKvxnvAkcBfVap?usp=drive_link" target="_blank" rel="noopener noreferrer">Download from Google Drive</a></p>
+      </article>
+      <article class="app-panel" id="panel-focus" role="tabpanel" aria-labelledby="tab-focus" data-app-panel="focus" hidden>
+        <h3>Focus</h3>
+        <p>Tracks focus time to support modular learning with positive feedback, visualises daily and weekly progress, and provides session summaries.</p>
+        <p><a href="https://drive.google.com/drive/folders/1ILbgD9KAjZO3gG8o0nVvAezRM1j67PLu?usp=drive_link" target="_blank" rel="noopener noreferrer">Download from Google Drive</a></p>
+      </article>
+      <article class="app-panel" id="panel-finance" role="tabpanel" aria-labelledby="tab-finance" data-app-panel="finance" hidden>
+        <h3>Finance</h3>
+        <p>An all-in-one finance manager for student life abroad, covering accounts, income and expenses, category budgets and transaction tracking.</p>
+        <p><a href="https://drive.google.com/drive/folders/1czOmzHpdfwfpXiiQdRUhWcitO3bv0wIC?usp=drive_link" target="_blank" rel="noopener noreferrer">Download from Google Drive</a></p>
       </article>
       <article class="app-panel" id="panel-dualsub" role="tabpanel" aria-labelledby="tab-dualsub" data-app-panel="dualsub" hidden>
         <h3>DualSub</h3>
