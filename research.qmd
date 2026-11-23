@@ -11,6 +11,7 @@ title: "Research"
       <article class="degree-thesis">
         <p class="degree-thesis-type">Undergraduate Thesis</p>
         <h3>Pension Indexation Mechanisms for China’s Basic Pension System amid the Gradual Increase in the Retirement Age: An Actuarial Analysis</h3>
+        <p class="degree-thesis-supervisor">Supervisor: Dr Qiao Yang</p>
       </article>
     </div>
   </section>
