@@ -38,22 +38,34 @@ title: "Projects"
 
     <div class="app-panels" aria-live="polite">
       <article class="app-panel" id="panel-finance" role="tabpanel" aria-labelledby="tab-finance" data-app-panel="finance">
-        <h3>Finance</h3><p>Introduction and download link coming soon.</p>
+        <h3>Finance</h3>
+        <p>An all-in-one finance manager for student life abroad, covering accounts, income and expenses, category budgets and transaction tracking.</p>
+        <p>Download link coming soon.</p>
       </article>
       <article class="app-panel" id="panel-notebook" role="tabpanel" aria-labelledby="tab-notebook" data-app-panel="notebook" hidden>
-        <h3>Notebook</h3><p>Introduction and download link coming soon.</p>
+        <h3>Notebook</h3>
+        <p>Builds on handwriting notes with PDF import and a freeform Canvas for writing, drawing and annotation.</p>
+        <p>Download link coming soon.</p>
       </article>
       <article class="app-panel" id="panel-calendar" role="tabpanel" aria-labelledby="tab-calendar" data-app-panel="calendar" hidden>
-        <h3>Calendar</h3><p>Introduction and download link coming soon.</p>
+        <h3>Calendar</h3>
+        <p>Brings iCloud Calendar events and reminders to your desktop wallpaper, automatically identifying classes and important events from designated fields in event notes.</p>
+        <p>Download link coming soon.</p>
       </article>
       <article class="app-panel" id="panel-timer" role="tabpanel" aria-labelledby="tab-timer" data-app-panel="timer" hidden>
-        <h3>Timer</h3><p>Introduction and download link coming soon.</p>
+        <h3>Timer</h3>
+        <p>Tracks focus time to support modular learning with positive feedback, visualises daily and weekly progress, and provides session summaries.</p>
+        <p>Download link coming soon.</p>
       </article>
       <article class="app-panel" id="panel-menubar" role="tabpanel" aria-labelledby="tab-menubar" data-app-panel="menubar" hidden>
-        <h3>MenuBar</h3><p>Introduction and download link coming soon.</p>
+        <h3>MenuBar</h3>
+        <p>Keeps menu bar icons tidy, with optional usage indicators for GPT and Claude.</p>
+        <p>Download link coming soon.</p>
       </article>
       <article class="app-panel" id="panel-dualsub" role="tabpanel" aria-labelledby="tab-dualsub" data-app-panel="dualsub" hidden>
-        <h3>DualSub</h3><p>Introduction and download link coming soon.</p>
+        <h3>DualSub</h3>
+        <p>Provides bilingual subtitles for streaming platforms including YouTube, HBO Max, Disney+, Channel 4 and Netflix, as well as KCL’s Echo360 lecture recordings, with translations processed locally.</p>
+        <p>Download link coming soon.</p>
       </article>
     </div>
   </section>
