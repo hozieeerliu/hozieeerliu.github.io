@@ -31,6 +31,9 @@ title: "Projects"
       <button class="app-tab" id="tab-menubar" type="button" role="tab" aria-selected="false" aria-controls="panel-menubar" tabindex="-1" data-app-tab="menubar">
         <img src="assets/images/projects/menubar.jpg" alt="" /><span>MenuBar</span>
       </button>
+      <button class="app-tab" id="tab-dualsub" type="button" role="tab" aria-selected="false" aria-controls="panel-dualsub" tabindex="-1" data-app-tab="dualsub">
+        <img src="assets/images/projects/dualsub.jpg" alt="" /><span>DualSub</span>
+      </button>
     </div>
 
     <div class="app-panels" aria-live="polite">
@@ -48,6 +51,9 @@ title: "Projects"
       </article>
       <article class="app-panel" id="panel-menubar" role="tabpanel" aria-labelledby="tab-menubar" data-app-panel="menubar" hidden>
         <h3>MenuBar</h3><p>Introduction and download link coming soon.</p>
+      </article>
+      <article class="app-panel" id="panel-dualsub" role="tabpanel" aria-labelledby="tab-dualsub" data-app-panel="dualsub" hidden>
+        <h3>DualSub</h3><p>Introduction and download link coming soon.</p>
       </article>
     </div>
   </section>
