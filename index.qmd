@@ -15,7 +15,39 @@ body-classes: home-page
 
 <p class="academic-bio">I am currently an MSc student in the Department of International Development at King’s College London, having completed my BSc in Actuarial Science from Beijing Technology and Business University. My academic interests include quantitative economics, industrial organisation, and development economics, as well as actuarial modelling. During my master’s studies, I aim to build a strong foundation in both quantitative and qualitative research methods. Alongside this, I am exploring how AI tools can enhance efficiency and support economic research, with particular attention to their limitations and to finding a balance in human–AI collaboration that preserves human agency and critical thinking.</p>
 
-<div class="home-notice" role="note" aria-label="What’s New"><span class="notice-label">What’s New</span><div class="updates-content"><div class="update-entry"><time datetime="2026-11-23">[2026.11.23]</time><span>I’ve added several Vibe Coding projects, with descriptions and download links, to the <a href="projects.qmd">Projects page</a>.</span></div><div class="update-entry"><time datetime="2026-11-20">[2026.11.20]</time><span>My personal website has officially moved here. <a href="https://www.jingqishixiang.com">Previous site (no longer updated)</a></span></div></div></div></div>
+<div class="home-notice" role="region" aria-label="What’s New">
+<span class="notice-label">What’s New</span>
+<div class="updates-content">
+<ol class="updates-list">
+<li class="update-entry"><time datetime="2026-11-23">[2026.11.23]</time><span>I’ve added several Vibe Coding projects, with descriptions and download links, to the <a href="projects.qmd">Projects page</a>.</span></li>
+<li class="update-entry"><time datetime="2026-11-20">[2026.11.20]</time><span>My personal website has officially moved here. <a href="https://www.jingqishixiang.com">Previous site (no longer updated)</a></span></li>
+<li class="update-entry is-undated"><span>I’m an intermediate badminton enthusiast. Favourite active players: Shi Yuqi, Chou Tien Chen, Victor Lai. Based around KCL Waterloo Campus, London. <strong>Badminton enthusiasts are welcome to get in touch</strong> — I bring enthusiasm, if not consistent shot quality.</span></li>
+</ol>
+</div>
+</div>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const list = document.querySelector(".updates-list");
+  if (!list) return;
+  const entries = Array.from(list.children);
+  entries.sort((a, b) => {
+    const aDate = Date.parse(a.querySelector("time")?.dateTime || "") || 0;
+    const bDate = Date.parse(b.querySelector("time")?.dateTime || "") || 0;
+    return bDate - aDate;
+  });
+  entries.forEach((entry) => list.append(entry));
+  if (entries.length <= 5) return;
+  const older = document.createElement("details");
+  older.className = "older-updates";
+  const summary = document.createElement("summary");
+  summary.textContent = "Earlier updates";
+  const olderList = document.createElement("ol");
+  olderList.className = "updates-list";
+  older.append(summary, olderList);
+  entries.slice(5).forEach((entry) => olderList.append(entry));
+  list.after(older);
+});
+</script>
 
 <nav class="home-links" aria-label="Explore the website">
   <a class="home-link" href="research.qmd">Research</a>
