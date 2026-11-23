@@ -5,7 +5,6 @@ title: "Research"
 ```{=html}
 <main class="page-shell">
   <h1 class="page-title">Research</h1>
-  <p>Degree Theses</p>
-  <p>Pension Indexation Mechanisms for China’s Basic Pension System amid the Gradual Increase in the Retirement Age: An Actuarial Analysis (Undergraduate thesis, Supervisor: <a href="https://eco.btbu.edu.cn/szdw/yjsds/ssyjsds/65d97423b59f45afb7e324e79e44673a.htm" target="_blank" rel="noopener">Dr Qiao Yang</a>)</p>
+  <p>Degree Theses — Pension Indexation Mechanisms for China’s Basic Pension System amid the Gradual Increase in the Retirement Age: An Actuarial Analysis (Undergraduate thesis, Supervisor: <a href="https://eco.btbu.edu.cn/szdw/yjsds/ssyjsds/65d97423b59f45afb7e324e79e44673a.htm" target="_blank" rel="noopener">Dr Qiao Yang</a>)</p>
 </main>
 ```
