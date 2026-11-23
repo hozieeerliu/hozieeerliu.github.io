@@ -2,14 +2,12 @@
 title: "Research"
 ---
 
+```{=html}
 <main class="page-shell">
   <h1 class="page-title">Research</h1>
-  <div class="writing-list research-list">
-    <article class="writing-row">
-      <div class="writing-entry">
-        <h2>Pension Indexation Mechanisms for China’s Basic Pension System amid the Gradual Increase in the Retirement Age: An Actuarial Analysis</h2>
-        <span class="tagline">Undergraduate Thesis</span>
-      </div>
-    </article>
-  </div>
+  <section class="thesis-module" aria-labelledby="thesis-title">
+    <p class="thesis-label">Undergraduate Thesis</p>
+    <h2 id="thesis-title">Pension Indexation Mechanisms for China’s Basic Pension System amid the Gradual Increase in the Retirement Age: An Actuarial Analysis</h2>
+  </section>
 </main>
+```
