@@ -32,7 +32,6 @@ body { background-color: var(--paper); background-image: linear-gradient(rgba(24
 a { text-decoration-thickness: 1px; text-underline-offset: .22em; }
 .navbar { min-height: 72px; border-bottom: 0; padding: .65rem max(1.5rem, calc((100vw - 1200px)/2)); background: transparent !important; backdrop-filter: none; }
 .navbar-brand { font-size: 1.05rem; font-weight: 600; letter-spacing: -.035em; }
-.navbar-brand .navbar-logo { width: 24px; height: 24px; max-height: none; object-fit: cover; object-position: center; flex: 0 0 24px; border-radius: 50%; }
 .navbar-nav .nav-link { color: #53645c; font-size: .94rem; padding-inline: .85rem !important; }
 .navbar-nav .nav-link:hover, .navbar-nav .nav-link.active { color: var(--jade); }
 .navbar .bi-envelope { color: var(--muted); }
