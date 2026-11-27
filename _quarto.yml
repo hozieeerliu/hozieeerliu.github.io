@@ -6,12 +6,12 @@ website:
   title: "Hozier Liu"
   description: "Personal academic website of Hozier Liu."
   site-url: https://hozierliu.com
-  favicon: assets/images/site-logo.png
+  favicon: assets/images/site-logo-20261127.png
   navbar:
     background: transparent
     foreground: "#242424"
     title: "Hozier Liu"
-    logo: assets/images/site-logo.png
+    logo: assets/images/site-logo-20261127.png
     logo-alt: "Hozier Liu avatar"
     left:
       - text: "Home"
